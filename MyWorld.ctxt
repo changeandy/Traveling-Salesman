@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\r\n\ Erg\u00E4nzen\ Sie\ hier\ eine\ Beschreibung\ f\u00FCr\ die\ Klasse\ MyWorld.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=
+comment1.target=MyWorld()
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ MyWorld\r\n\ \r\n
+comment2.params=prev\ toProcess
+comment2.target=void\ searchBest(java.util.ArrayList,\ java.util.ArrayList)
+comment2.text=\r\n\ permutate\ -\ writes\ all\ the\ permutations\ of\ the\ toProcess\ List\ on\ screen\ using\ recursion\r\n\r\n\ @param\ \ prev\ \ The\ part\ of\ the\ List\ already\ traversed\ (use\ an\ empty\ list\ in\ the\ beginning)\r\n\ @param\ \ toProcess\ \ The\ list\ that\ is\ to\ be\ permutated\r\n
+comment3.params=
+comment3.target=void\ findeBestenWeg()
+comment4.params=besucht\ unbesucht\ besteDistanz
+comment4.target=RundReise\ recuBesterWeg(RundReise,\ java.util.ArrayList,\ double)
+numComments=5

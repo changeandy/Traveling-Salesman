@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=RundReise
+comment1.params=
+comment1.target=RundReise()
+comment2.params=stationen
+comment2.target=RundReise(java.util.ArrayList)
+comment3.params=orig
+comment3.target=RundReise(RundReise)
+comment4.params=station
+comment4.target=void\ add(Stadt)
+comment5.params=
+comment5.target=void\ cut()
+comment6.params=
+comment6.target=double\ getDistanz()
+comment7.params=
+comment7.target=double\ calcDistanz()
+comment8.params=farbe
+comment8.target=void\ markiere(greenfoot.Color)
+numComments=9
